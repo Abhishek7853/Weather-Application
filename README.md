@@ -9,9 +9,9 @@ A simple and responsive Weather App built using HTML, CSS, and JavaScript. It fe
 
     🧑‍💻 Clean and responsive user interface
 
-🚀 Live Demo
+🚀 Website Link
 
-Live App Link <!-- Replace with actual link if hosted -->
+https://cheerful-taffy-35f622.netlify.app/
 📦 Tech Stack
 
     HTML5
